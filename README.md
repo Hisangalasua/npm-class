@@ -1,6 +1,8 @@
 ## This is my super text
 
-npm install
+npm install zushisan
 
-and go crazy !
+reverse = require('reverseString')
+
+
 
