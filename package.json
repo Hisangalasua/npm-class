@@ -1,5 +1,5 @@
 {
-  "name": "own-npm",
+  "name": "Romain-reverse-string",
   "version": "1.0.0",
   "description": "My first module",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Zushisan/npm-class/issues"
   },
-  "homepage": "https://github.com/Zushisan/npm-class#readme"
+  "homepage": "https://github.com/Zushisan/npm-class#readme",
+  "dependencies": {
+    "really-really-fancy-text": "^0.1.0"
+  }
 }

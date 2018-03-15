@@ -1,5 +1,6 @@
+function reverseString(str) {
+  return str.split("").reverse().join("");
+}
+reverseString("hello");
 
-
-romainFun = () => 'WAGAENOOGNENGEOINGEONGENGONGOIIIIIISLNGDLGNDLNGONGEONGONEGNEONGOLDMLKGDKGMLDMG--------------------------------'
-
-module.exports = romainFun
+module.exports = reverseString;
