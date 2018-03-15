@@ -1,6 +1,6 @@
-function reverseString(str) {
+function zushisan(str) {
   return str.split("").reverse().join("");
 }
-reverseString("hello");
 
-module.exports = reverseString;
+
+module.exports = zushisan;

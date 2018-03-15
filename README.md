@@ -2,9 +2,11 @@
 
 npm install zushisan
 
-use:   reverse(string)
+## usage   
 
-reverse = require('reverseString')
+ReverseString = require('zushisan')
+
+reverse('Your String')
 
 
 
